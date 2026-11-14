@@ -7,7 +7,7 @@
       "name": "Archipelago Icons",
       "appearance": "dark",
       "directory_icons": {
-        "collapsed": "./icons/folders/folder.svg",
+        "collapsed": "./icons/folders/folder-outline.svg",
         "expanded": "./icons/foldersOpen/folder.svg"
       },
       "named_directory_icons": {

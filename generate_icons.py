@@ -103,6 +103,16 @@ def main():
 
         named_dirs = {n: folder_pair(stem) for n, (stem, _) in sorted(folders.items())}
         default_dir = folder_pair("folder")
+        # Plain folders: the plugin's closed folder is solid (reads as "empty");
+        # PhpStorm shows an outline. Draw a closed outline matching the plugin's
+        # open-folder outline (own artwork, same colour).
+        outline = ICONS / "folders/folder-outline.svg"
+        outline.write_text(
+            '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24">'
+            '<path fill="none" stroke="#78909c" stroke-width="2" stroke-linejoin="round" '
+            'd="M10 5H4.2C3.5 5 3 5.5 3 6.2v11.6c0 .7.5 1.2 1.2 1.2h15.6c.7 0 1.2-.5 1.2-1.2V8.2'
+            'c0-.7-.5-1.2-1.2-1.2H12z"/></svg>\n')
+        default_dir["collapsed"] = "./icons/folders/folder-outline.svg"
 
     theme = {
         "$schema": "https://zed.dev/schema/icon_themes/v0.3.0.json",
