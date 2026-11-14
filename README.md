@@ -60,4 +60,4 @@ The theme and icons are generated from a local JetBrains IDE install:
 
 ## License
 
-MIT. Icons and file associations: Atom Material Icons © Elior "Mallowigi" Boukhobza, MIT (see `LICENSE`). Not affiliated with JetBrains.
+MIT. Icons and file associations: Atom Material Icons © Elior "Mallowigi" Boukhobza, MIT (see `LICENSE-ICONS`). Not affiliated with JetBrains.
