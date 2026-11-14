@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+# private setup, moved out to ~/GithubProjects/zed-config
+zed-config/
+config/
+install.sh
