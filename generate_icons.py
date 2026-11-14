@@ -21,17 +21,56 @@ JB = Path.home() / "Library/Application Support/JetBrains"
 OUT_JSON = ROOT / "icons/icon_themes/archipelago-icons.json"
 ICONS = ROOT / "icons/icons"
 
-# Extra folder names -> an existing folder name whose icon they reuse
-# (names the plugin doesn't cover but are common in WP/Next.js projects).
 # Test-file icons (testts, testjs, …) recoloured to one strong green, standing in for
 # JetBrains' green Tests file-colour rows, which Zed can't draw.
 TEST_GREEN = "6cb463"
 
+# Extra folder names -> an existing folder name whose icon they reuse
+# (names the plugin doesn't cover but are common in WP/Next.js projects).
 FOLDER_ALIASES = {
     "contexts": "context", "configs": "config", "template-parts": "templates",
     "blocks": "components", "block": "components", "kit": "components",
     "webhooks": "hooks", "listeners": "events", "policies": "guards",
+    ".claude": "ai", "claude": "ai",
+    "account": "users", "accounts": "users", "membership": "users",
+    "signup": "users", "register": "users",
+    "login": "auth", "session": "auth", "sessions": "auth", "two-factor": "auth",
+    "checkout": "cart", "billing": "cart", "payment": "cart", "payments": "cart",
+    "dashboard": "analytics", "insights": "analytics",
+    "plans": "docs", "plan": "docs",
+    "history": "logs", "activity": "logs",
 }
+# Next.js dynamic-route folders ([id], [...slug], [[...slug]]): own artwork, a routes
+# folder marked with brackets. Zed only matches exact folder names, so list common ones.
+_BRACKETS = ('<path fill="#ffd54f" d="M11 8.5h4.5v2.5h-2v5h2v2.5H11zm11 0h-4.5v2.5h2v5h-2v2.5H22z"/>'
+             '</svg>\n')
+_SVG = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24">'
+DYNAMIC_ROUTE = {
+    "collapsed": _SVG + '<path fill="#607d8b" d="M10 4H4c-1.1 0-2 .9-2 2v12a2 2 0 0 0 2 2h16'
+                        'a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-8z"/>' + _BRACKETS,
+    "expanded": _SVG + '<path fill="#607d8b" d="M20 18H4V8h16m0-2h-8l-2-2H4c-1.1 0-2 .9-2 2v12'
+                       'a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2"/>' + _BRACKETS,
+}
+_PARAMS = ["id", "slug", "locale", "lang", "token", "file", "product", "category", "tag",
+           "post", "page", "handle", "key", "code", "name", "type", "username", "uuid",
+           "userId", "postId", "productId", "orderId", "teamId", "projectId", "workspaceId",
+           "shop", "tenant", "workspace", "provider", "path", "all", "rest", "nextauth",
+           "listingId", "bundleType", "section", "kind", "filters", "resource", "prefill",
+           "missing", "org", "orgId", "orgSlug", "team", "teamSlug", "workspaceSlug",
+           "accountId", "customerId", "store", "storeId", "site", "siteId", "domain",
+           "collection", "collectionId", "variant", "variantId", "item", "itemId",
+           "categoryId", "tagId", "authorId", "commentId", "invoiceId", "eventId",
+           "docId", "articleId", "threadId", "sessionId", "step", "tab", "view", "date",
+           "year", "month", "version", "segments", "params", "catchAll"]
+DYNAMIC_ROUTES = ([f"[{p}]" for p in _PARAMS] + [f"[...{p}]" for p in _PARAMS]
+                  + [f"[[...{p}]]" for p in _PARAMS])
+# Common file names matched only by open-ended plugin patterns (which can't be
+# expanded into names), so probe those patterns with these.
+PROBE_FILES = [
+    ".env.example", ".env.local", ".env.development", ".env.production", ".env.test",
+    ".env.staging", ".env.development.local", ".env.production.local", ".env.test.local",
+    ".gitattributes", ".gitkeep", ".gitmodules", ".git-blame-ignore-revs",
+]
 # Plain closed folders: the plugin's solid folder reads as "empty". Zed can't tell
 # empty from non-empty, so draw a folder with paper peeking out (own artwork).
 FOLDER_FILLED = (
@@ -238,6 +277,12 @@ def main():
                 elif "*" not in n:
                     for v in case_variants(n):
                         best(stems, v, key, a["priority"])
+            try:
+                rx = re.compile(a.get("pattern") or "(?!)", re.I)
+            except re.error:
+                rx = re.compile("(?!)")
+            for n in filter(rx.search, PROBE_FILES):
+                best(stems, n, key, a["priority"])
             for kind, v in targets_from_pattern(a.get("pattern"), False):
                 for w in (case_variants(v) if kind == "name" else [v]):
                     best(suffixes if kind == "suffix" else stems, w, key, a["priority"])
@@ -300,6 +345,10 @@ def main():
         for alias, target in FOLDER_ALIASES.items():
             if alias not in named_dirs and target in named_dirs:
                 named_dirs[alias] = named_dirs[target]
+        route = {k: write(f"{'folders' if k == 'collapsed' else 'foldersOpen'}/dynamic-route.svg", v)
+                 for k, v in DYNAMIC_ROUTE.items()}
+        for n in DYNAMIC_ROUTES:
+            named_dirs.setdefault(n, route)
         default_dir = {"collapsed": write("folders/folder-filled.svg", FOLDER_FILLED),
                        "expanded": folder_pair(("folder", "", ""))["expanded"]}
 

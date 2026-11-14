@@ -5715,6 +5715,10 @@
           "collapsed": "./icons/folders/models-00796b-80cbc4.svg",
           "expanded": "./icons/foldersOpen/models-00796b-80cbc4.svg"
         },
+        ".claude": {
+          "collapsed": "./icons/folders/ai-834df0-f8bbd0.svg",
+          "expanded": "./icons/foldersOpen/ai-834df0-f8bbd0.svg"
+        },
         ".cli": {
           "collapsed": "./icons/folders/tasks-795774-ce93d8.svg",
           "expanded": "./icons/foldersOpen/tasks-795774-ce93d8.svg"
@@ -19991,6 +19995,966 @@
           "collapsed": "./icons/folders/archive-795548-d7ccc8.svg",
           "expanded": "./icons/foldersOpen/archive-795548-d7ccc8.svg"
         },
+        "[...accountId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...all]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...articleId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...authorId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...bundleType]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...catchAll]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...categoryId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...category]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...code]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...collectionId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...collection]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...commentId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...customerId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...date]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...docId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...domain]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...eventId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...file]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...filters]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...handle]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...id]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...invoiceId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...itemId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...item]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...key]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...kind]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...lang]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...listingId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...locale]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...missing]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...month]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...name]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...nextauth]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...orderId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...orgId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...orgSlug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...org]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...page]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...params]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...path]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...postId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...post]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...prefill]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...productId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...product]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...projectId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...provider]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...resource]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...rest]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...section]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...segments]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...sessionId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...shop]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...siteId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...site]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...slug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...step]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...storeId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...store]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...tab]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...tagId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...tag]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...teamId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...teamSlug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...team]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...tenant]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...threadId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...token]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...type]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...userId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...username]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...uuid]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...variantId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...variant]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...version]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...view]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...workspaceId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...workspaceSlug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...workspace]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[...year]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...accountId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...all]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...articleId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...authorId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...bundleType]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...catchAll]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...categoryId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...category]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...code]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...collectionId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...collection]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...commentId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...customerId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...date]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...docId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...domain]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...eventId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...file]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...filters]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...handle]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...id]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...invoiceId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...itemId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...item]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...key]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...kind]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...lang]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...listingId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...locale]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...missing]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...month]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...name]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...nextauth]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...orderId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...orgId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...orgSlug]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...org]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...page]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...params]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...path]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...postId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...post]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...prefill]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...productId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...product]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...projectId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...provider]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...resource]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...rest]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...section]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...segments]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...sessionId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...shop]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...siteId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...site]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...slug]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...step]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...storeId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...store]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...tab]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...tagId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...tag]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...teamId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...teamSlug]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...team]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...tenant]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...threadId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...token]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...type]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...userId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...username]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...uuid]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...variantId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...variant]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...version]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...view]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...workspaceId]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...workspaceSlug]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...workspace]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[[...year]]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[accountId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[all]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[articleId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[authorId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[bundleType]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[catchAll]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[categoryId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[category]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[code]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[collectionId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[collection]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[commentId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[customerId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[date]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[docId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[domain]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[eventId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[file]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[filters]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[handle]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[id]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[invoiceId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[itemId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[item]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[key]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[kind]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[lang]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[listingId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[locale]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[missing]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[month]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[name]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[nextauth]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[orderId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[orgId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[orgSlug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[org]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[page]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[params]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[path]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[postId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[post]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[prefill]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[productId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[product]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[projectId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[provider]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[resource]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[rest]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[section]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[segments]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[sessionId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[shop]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[siteId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[site]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[slug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[step]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[storeId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[store]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[tab]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[tagId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[tag]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[teamId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[teamSlug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[team]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[tenant]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[threadId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[token]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[type]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[userId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[username]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[uuid]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[variantId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[variant]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[version]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[view]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[workspaceId]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[workspaceSlug]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[workspace]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
+        "[year]": {
+          "collapsed": "./icons/folders/dynamic-route.svg",
+          "expanded": "./icons/foldersOpen/dynamic-route.svg"
+        },
         "_@TYPES": {
           "collapsed": "./icons/folders/ts-0288d1-90caf9.svg",
           "expanded": "./icons/foldersOpen/ts-0288d1-90caf9.svg"
@@ -29879,6 +30843,14 @@
           "collapsed": "./icons/folders/base-cd9575-ffe0b2.svg",
           "expanded": "./icons/foldersOpen/base-cd9575-ffe0b2.svg"
         },
+        "account": {
+          "collapsed": "./icons/folders/users-ec407a-f8bbd0.svg",
+          "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
+        },
+        "accounts": {
+          "collapsed": "./icons/folders/users-ec407a-f8bbd0.svg",
+          "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
+        },
         "acf": {
           "collapsed": "./icons/folders/acf-00ad9f-a7ffeb.svg",
           "expanded": "./icons/foldersOpen/acf-00ad9f-a7ffeb.svg"
@@ -29898,6 +30870,10 @@
         "actions": {
           "collapsed": "./icons/folders/redux-actions-ab47bc-e1bee7.svg",
           "expanded": "./icons/foldersOpen/redux-actions-ab47bc-e1bee7.svg"
+        },
+        "activity": {
+          "collapsed": "./icons/folders/logs-607d8b-b0bec5.svg",
+          "expanded": "./icons/foldersOpen/logs-607d8b-b0bec5.svg"
         },
         "adapter": {
           "collapsed": "./icons/folders/adapter-f26b00-ffecb3.svg",
@@ -30271,6 +31247,10 @@
           "collapsed": "./icons/folders/audio-ef5350-ffcdd2.svg",
           "expanded": "./icons/foldersOpen/audio-ef5350-ffcdd2.svg"
         },
+        "billing": {
+          "collapsed": "./icons/folders/cart-ffa000-ffecb3.svg",
+          "expanded": "./icons/foldersOpen/cart-ffa000-ffecb3.svg"
+        },
         "bin": {
           "collapsed": "./icons/folders/core-4db6ac-e0f2f1.svg",
           "expanded": "./icons/foldersOpen/core-4db6ac-e0f2f1.svg"
@@ -30459,6 +31439,10 @@
           "collapsed": "./icons/folders/messages-1e88e5-90caf9.svg",
           "expanded": "./icons/foldersOpen/messages-1e88e5-90caf9.svg"
         },
+        "checkout": {
+          "collapsed": "./icons/folders/cart-ffa000-ffecb3.svg",
+          "expanded": "./icons/foldersOpen/cart-ffa000-ffecb3.svg"
+        },
         "chef": {
           "collapsed": "./icons/folders/chef-ea7130-ffccbc.svg",
           "expanded": "./icons/foldersOpen/chef-ea7130-ffccbc.svg"
@@ -30478,6 +31462,10 @@
         "classes": {
           "collapsed": "./icons/folders/models-00796b-80cbc4.svg",
           "expanded": "./icons/foldersOpen/models-00796b-80cbc4.svg"
+        },
+        "claude": {
+          "collapsed": "./icons/folders/ai-834df0-f8bbd0.svg",
+          "expanded": "./icons/foldersOpen/ai-834df0-f8bbd0.svg"
         },
         "cli": {
           "collapsed": "./icons/folders/tasks-795774-ce93d8.svg",
@@ -30826,6 +31814,10 @@
         "dart_tools": {
           "collapsed": "./icons/folders/dart-47c5fb-#bbdefb.svg",
           "expanded": "./icons/foldersOpen/dart-47c5fb-#bbdefb.svg"
+        },
+        "dashboard": {
+          "collapsed": "./icons/folders/charts-ffa726-fff8e1.svg",
+          "expanded": "./icons/foldersOpen/charts-ffa726-fff8e1.svg"
         },
         "data": {
           "collapsed": "./icons/folders/dump-757575-bdbdbd.svg",
@@ -31791,6 +32783,10 @@
           "collapsed": "./icons/folders/mercurial-03a9f4-89ddff.svg",
           "expanded": "./icons/foldersOpen/mercurial-03a9f4-89ddff.svg"
         },
+        "history": {
+          "collapsed": "./icons/folders/logs-607d8b-b0bec5.svg",
+          "expanded": "./icons/foldersOpen/logs-607d8b-b0bec5.svg"
+        },
         "hlsl": {
           "collapsed": "./icons/folders/shader-ab47bc-e1bee7.svg",
           "expanded": "./icons/foldersOpen/shader-ab47bc-e1bee7.svg"
@@ -31942,6 +32938,10 @@
         "inputs": {
           "collapsed": "./icons/folders/meta-00bcd4-b2ebf2.svg",
           "expanded": "./icons/foldersOpen/meta-00bcd4-b2ebf2.svg"
+        },
+        "insights": {
+          "collapsed": "./icons/folders/charts-ffa726-fff8e1.svg",
+          "expanded": "./icons/foldersOpen/charts-ffa726-fff8e1.svg"
         },
         "instruction": {
           "collapsed": "./icons/folders/skill-616161-ffa726.svg",
@@ -32287,6 +33287,10 @@
           "collapsed": "./icons/folders/math-d81b60-f8bbd0.svg",
           "expanded": "./icons/foldersOpen/math-d81b60-f8bbd0.svg"
         },
+        "login": {
+          "collapsed": "./icons/folders/keys-bdbdbd-ffffff.svg",
+          "expanded": "./icons/foldersOpen/keys-bdbdbd-ffffff.svg"
+        },
         "logs": {
           "collapsed": "./icons/folders/logs-607d8b-b0bec5.svg",
           "expanded": "./icons/foldersOpen/logs-607d8b-b0bec5.svg"
@@ -32440,6 +33444,10 @@
           "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
         },
         "members": {
+          "collapsed": "./icons/folders/users-ec407a-f8bbd0.svg",
+          "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
+        },
+        "membership": {
           "collapsed": "./icons/folders/users-ec407a-f8bbd0.svg",
           "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
         },
@@ -32915,6 +33923,14 @@
           "collapsed": "./icons/folders/users-ec407a-f8bbd0.svg",
           "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
         },
+        "payment": {
+          "collapsed": "./icons/folders/cart-ffa000-ffecb3.svg",
+          "expanded": "./icons/foldersOpen/cart-ffa000-ffecb3.svg"
+        },
+        "payments": {
+          "collapsed": "./icons/folders/cart-ffa000-ffecb3.svg",
+          "expanded": "./icons/foldersOpen/cart-ffa000-ffecb3.svg"
+        },
         "pdf": {
           "collapsed": "./icons/folders/pdf-f44336-ffcdd2.svg",
           "expanded": "./icons/foldersOpen/pdf-f44336-ffcdd2.svg"
@@ -33030,6 +34046,14 @@
         "placeholders": {
           "collapsed": "./icons/folders/skeletons-616161-ffa726.svg",
           "expanded": "./icons/foldersOpen/skeletons-616161-ffa726.svg"
+        },
+        "plan": {
+          "collapsed": "./icons/folders/docs-0277bd-b3e5fc.svg",
+          "expanded": "./icons/foldersOpen/docs-0277bd-b3e5fc.svg"
+        },
+        "plans": {
+          "collapsed": "./icons/folders/docs-0277bd-b3e5fc.svg",
+          "expanded": "./icons/foldersOpen/docs-0277bd-b3e5fc.svg"
         },
         "plastic": {
           "collapsed": "./icons/folders/plastic-ff9800-fff3e0.svg",
@@ -33378,6 +34402,10 @@
         "redwood": {
           "collapsed": "./icons/folders/redwood-bf360c-ffccbc.svg",
           "expanded": "./icons/foldersOpen/redwood-bf360c-ffccbc.svg"
+        },
+        "register": {
+          "collapsed": "./icons/folders/users-ec407a-f8bbd0.svg",
+          "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
         },
         "rel": {
           "collapsed": "./icons/folders/connection-00acc1-b2ebf2.svg",
@@ -33779,6 +34807,14 @@
           "collapsed": "./icons/folders/functions-039be5-b3e5fc.svg",
           "expanded": "./icons/foldersOpen/functions-039be5-b3e5fc.svg"
         },
+        "session": {
+          "collapsed": "./icons/folders/keys-bdbdbd-ffffff.svg",
+          "expanded": "./icons/foldersOpen/keys-bdbdbd-ffffff.svg"
+        },
+        "sessions": {
+          "collapsed": "./icons/folders/keys-bdbdbd-ffffff.svg",
+          "expanded": "./icons/foldersOpen/keys-bdbdbd-ffffff.svg"
+        },
         "setting": {
           "collapsed": "./icons/folders/config-00acc1-80deea.svg",
           "expanded": "./icons/foldersOpen/config-00acc1-80deea.svg"
@@ -33830,6 +34866,10 @@
         "signals": {
           "collapsed": "./icons/folders/events-66bb6a-c8e6c9.svg",
           "expanded": "./icons/foldersOpen/events-66bb6a-c8e6c9.svg"
+        },
+        "signup": {
+          "collapsed": "./icons/folders/users-ec407a-f8bbd0.svg",
+          "expanded": "./icons/foldersOpen/users-ec407a-f8bbd0.svg"
         },
         "site": {
           "collapsed": "./icons/folders/web-039be5-b3e5fc.svg",
@@ -34414,6 +35454,10 @@
         "tutos": {
           "collapsed": "./icons/folders/home-8d6e63-bcaaa4.svg",
           "expanded": "./icons/foldersOpen/home-8d6e63-bcaaa4.svg"
+        },
+        "two-factor": {
+          "collapsed": "./icons/folders/keys-bdbdbd-ffffff.svg",
+          "expanded": "./icons/foldersOpen/keys-bdbdbd-ffffff.svg"
         },
         "type": {
           "collapsed": "./icons/folders/ts-0288d1-90caf9.svg",
@@ -36704,7 +37748,13 @@
         ".entity.tsx": "ngrx-entities-64b5f6",
         ".env": "envs-e79627",
         ".env.dev": "envs-e79627",
+        ".env.development": "envs-e79627",
+        ".env.example": "envs-e79627",
+        ".env.local": "envs-e79627",
         ".env.prod": "envs-e79627",
+        ".env.production": "envs-e79627",
+        ".env.staging": "envs-e79627",
+        ".env.test": "envs-e79627",
         ".eot": "font-7a8387",
         ".ep": "mojolicious-e68e44",
         ".epj": "ecere-26a69a",
@@ -36936,14 +37986,18 @@
         ".gifv": "gif-ffee58",
         ".gih": "gimp-a89b71",
         ".git": "git-d52a29",
+        ".git-blame-ignore-revs": "git-d52a29",
         ".git-submodules": "git-d52a29",
+        ".gitattributes": "git-d52a29",
         ".gitbook": "gitbook-fafafa",
         ".gitbook.yaml": "gitbook-fafafa",
         ".gitbook.yml": "gitbook-fafafa",
         ".github/settings.yml": "github-e4e5e6",
         ".github/workflows/quality-checks.yml": "github-e4e5e6",
         ".gitignore": "gitignore-808080",
+        ".gitkeep": "git-d52a29",
         ".gitlab-ci.yml": "gitlab-e24329",
+        ".gitmodules": "git-d52a29",
         ".gitpod.yaml": "gitpod-f7910f",
         ".gitpod.yml": "gitpod-f7910f",
         ".gitrc": "git-d52a29",
