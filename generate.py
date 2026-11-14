@@ -326,17 +326,33 @@ ember_syntax.update({
     "predictive": {"color": COMMENT, "font_style": "italic"},
 })
 ember_style = {**style, **{
-    "background": "#21252b",
-    "title_bar.background": "#21252b",
-    "title_bar.inactive_background": "#21252b",
-    "status_bar.background": "#21252b",
-    "border": "#21252b",
-    "border.variant": "#2c313a",
-    "panel.background": "#1e2227",
-    "surface.background": "#1e2227",
-    "element.background": "#1e2227",
-    "element.disabled": "#1e2227",
-    "elevated_surface.background": "#2c313a",
+    # Chrome + panels: WebStorm New UI Dark (measured), lighter than Islands.
+    "background": "#2b2d30",
+    "title_bar.background": "#2b2d30",
+    "title_bar.inactive_background": "#2b2d30",
+    "status_bar.background": "#2b2d30",
+    "border": "#1e1f22",
+    "border.variant": "#393b40",
+    "panel.background": "#2b2d30",
+    "surface.background": "#2b2d30",
+    "element.background": "#2b2d30",
+    "element.disabled": "#2b2d30",
+    "elevated_surface.background": "#393b40",
+    # Text: WebStorm's bright file names; Zed's project panel uses text.muted.
+    "text": "#dfe1e5",
+    "text.muted": "#c9ccd3",
+    "text.placeholder": "#8c8f96",
+    "icon": "#ced0d6",
+    "icon.muted": "#a8abb2",
+    # Gutter a touch darker than the editor, like WebStorm (measured).
+    "editor.gutter.background": "#272a30",
+    # Project-panel tree guides: WebStorm's (measured).
+    "panel.indent_guide": "#4f5156",
+    "panel.indent_guide_hover": "#6f737a",
+    "panel.indent_guide_active": "#6f737a",
+    # Git-ignored entries: WebStorm's orange.
+    "ignored": "#d09e72",
+    "ignored.border": "#d09e72",
     # Inlay hints: WebStorm pill (needs "inlay_hints": {"show_background": true})
     "hint": "#7f8794",
     "hint.background": "#363c44",
