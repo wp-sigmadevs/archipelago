@@ -11,7 +11,12 @@ JetBrains Islands-inspired dark themes and Atom Material file icons for [Zed](ht
 
 ## Install
 
-Zed → `cmd-shift-x` → search **Archipelago**. Then pick the theme (`cmd-k cmd-t`) and icon theme (`zed: toggle icon theme`).
+Two extensions (Zed doesn't allow themes and icons in one): Zed → `cmd-shift-x` → install **Archipelago** (themes) and **Archipelago Icons**. Then pick the theme (`cmd-k cmd-t`) and icon theme (`zed: toggle icon theme`).
+
+| Folder | Extension |
+|---|---|
+| `theme/` | Archipelago (colour themes) |
+| `icons/` | Archipelago Icons (icon theme) |
 
 ## Recommended settings
 
@@ -60,4 +65,4 @@ The theme and icons are generated from a local JetBrains IDE install:
 
 ## License
 
-MIT. Icons and file associations: Atom Material Icons © Elior "Mallowigi" Boukhobza, MIT (see `LICENSE-ICONS`). Not affiliated with JetBrains.
+MIT. Icons and file associations: Atom Material Icons © Elior "Mallowigi" Boukhobza, MIT (see `icons/LICENSE-ICONS`). Not affiliated with JetBrains.

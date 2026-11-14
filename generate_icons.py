@@ -17,8 +17,8 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 PLUGIN_LIB = (Path.home() / "Library/Application Support/JetBrains/PhpStorm2026.2"
               / "plugins/Atom Material Icons/lib")
-OUT_JSON = ROOT / "icon_themes/archipelago-icons.json"
-ICONS = ROOT / "icons"
+OUT_JSON = ROOT / "icons/icon_themes/archipelago-icons.json"
+ICONS = ROOT / "icons/icons"
 
 
 def find_jar():

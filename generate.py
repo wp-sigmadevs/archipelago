@@ -15,7 +15,7 @@ ICLS = Path(sys.argv[1]) if len(sys.argv) > 1 else (
     HOME / "Library/Application Support/JetBrains/PhpStorm2026.2/colors/_@user_One Dark.icls")
 IDE_JAR = Path("/Applications/PhpStorm.app/Contents/lib/intellij.platform.ide.impl.jar")
 ISLANDS = "themes/islands/ManyIslandsDark.theme.json"
-OUT = Path(__file__).parent / "themes/archipelago.json"
+OUT = Path(__file__).parent / "theme/themes/archipelago.json"
 
 # --- PhpStorm editor scheme -------------------------------------------------
 root = ET.parse(ICLS).getroot()
